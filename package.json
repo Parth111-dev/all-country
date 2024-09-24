@@ -1,25 +1,21 @@
 {
-  "name": "country",
+  "name": "19_countries-project-setup-in-react",
   "version": "1.0.0",
-  "source": "src/index.html",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "start": "parcel index.html"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
-    "parcel": "^2.12.0",
+    "parcel": "^2.8.3",
     "process": "^0.11.10"
   },
   "dependencies": {
-    "git": "^0.1.5",
-    "github": "^14.0.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^6.26.1",
-    "wsl": "^1.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0"
   }
 }
